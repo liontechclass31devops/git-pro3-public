@@ -1,0 +1,4 @@
+# ignore "kenya" all files
+* .kenya
+# ignore "uganda" all files
+* .uganda
