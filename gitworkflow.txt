@@ -3,3 +3,5 @@ git status ------- to check the status of the files
 git add ---to add a file to be commited
 git add . to add everything to be commited
 git commit -m "message" ---- to commit your file to repo.
+git rm((filename))----delete a file in git
+git restore (file name)----restore a file that was deleted

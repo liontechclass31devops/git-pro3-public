@@ -5,3 +5,6 @@ Pakistan
 Saudi-Arabia
 Bangladesh
 mongola
+yemen
+Qatar
+oman
